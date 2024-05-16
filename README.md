@@ -25,3 +25,7 @@ This project utilizes the OpenWeatherMap API to fetch weather data. Follow these
 2. **Generate API Key:** Once logged in, navigate to the API Keys section and generate a new API key.
 3. **Replace Key:** After generating the API key, open the `script.js` file in your project directory.
 4. **Paste API Key:** Replace the placeholder API key (`const APIKey = "YOUR_API_KEY";`) with the one you generated.
+
+## 📹 Watch the Video
+
+https://github.com/ErdemGuvel/Simple-Weather-App/assets/104676101/3bc1760a-8713-419f-a5f2-f29d7ab60532
